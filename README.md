@@ -3,3 +3,4 @@
 
 # How to play the Game!
 Install the dmg file, and then just guess the numbers, really it is that simple!
+or use the release. u choose
