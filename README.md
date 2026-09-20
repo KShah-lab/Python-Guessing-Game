@@ -5,3 +5,5 @@ I have created a game in python as a beginner which requires the player to guess
 
 # How to play the Game!
 Install the .dmg file which is on the git hub release and then start guessing! The game can only be played on Mac so that is the reason for there only being a .dmg file. 
+To play the game just input a number between 1 and 150, if your number is too high, the game will tell you, if your number is too low, the game will tell you as well. The game ends once you guess the number chosen by python!
+If the game does not work or struggle to run, you can email me at Khaleeq.shah@icloud.com for some help
